@@ -1,0 +1,24 @@
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.frmLoginPage.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.Properties.Resources.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library Management System.exe
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library Management System.pdb
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\LMS.mdf
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\LMS_log.ldf
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.WelcomeAdmin.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditPublisher.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditAuthor.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditCategory.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditSupplier.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditBook.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.SearchForm.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.MemberForm.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.WelcomeMember.resources
+E:\Mawaat\Project Done\LMS\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Mawaat\Project Done\LMS\Library Management System\Library Management System\obj\x86\Debug\Library Management System.exe
+E:\Mawaat\Project Done\LMS\Library Management System\Library Management System\obj\x86\Debug\Library Management System.pdb
